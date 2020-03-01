@@ -1,0 +1,5 @@
+{
+  "colours": true,
+  "watch": ["src"],
+  "verbose": true
+}
