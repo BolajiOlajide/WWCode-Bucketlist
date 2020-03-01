@@ -48,3 +48,23 @@ yarn dev
 ```
 
 Thanksss.
+
+### Project Information
+
+This project is a bucketlist API used for creating, retrieving, updating and deleting bucketlists.
+
+The project contains the following mutations and queries:
+
+#### Queries
+
+* Retrieve Bucketlists
+* Retrieve bucketlist items
+
+#### Mutations
+
+* User sign up
+* User sign in
+* Update bucketlist
+* Delete bucketlist
+* Add Item to Bucketlist
+* Remove Item from Bucketlist
