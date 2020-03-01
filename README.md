@@ -9,6 +9,8 @@ The focus of this workshop is introducing folks to GraphQL and building a simple
 * NodeJS
 * ExpressJS
 * ApolloGraphQL
+* Knex (Query Builder)
+* SQLite (Database)
 
 ### Prerequisites
 
