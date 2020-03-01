@@ -4,5 +4,13 @@
   "main": "index.js",
   "repository": "git@github.com:BolajiOlajide/getting-started-graphql.git",
   "author": "Bolaji Olajide",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "dotenv": "8.2.0",
+    "express": "4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.2"
+  }
 }
