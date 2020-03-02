@@ -1,4 +1,4 @@
-# GETTING STARTED WITH GRAPHQL
+# WWCode Bucketlist Application
 
 Slides for the workshop can be [found here](https://docs.google.com/presentation/d/1Iu9bwR1EF9slK7iyhp5ZzqgmkbPx4aUUBR9B24L0Z5M/edit?usp=sharing).
 
@@ -20,19 +20,20 @@ Ensure you have the following installed on your PC. This project works on MacOS/
 * Git
 * NPM (or yarn if you prefer)
 * VSCode (or any editor of your choice)
+* [TablePlus](https://tableplus.com/) or any database management tool that supports SQLite
 
 #### Setup / Installation
 
 * Clone the repository from github with the command
 
 ```sh
-git clone https://github.com/BolajiOlajide/getting-started-graphql.git
+git clone https://github.com/BolajiOlajide/WWCode-Bucketlist.git
 ```
 
 * Navigate into the project directory
 
 ```sh
-cd getting-started-graphql
+cd WWCode-Bucketlist
 ```
 
 * Install the project dependencies using your package manager (either NPM/Yarn)
