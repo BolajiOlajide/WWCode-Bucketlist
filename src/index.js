@@ -1,3 +1,10 @@
-const express = require('express');
+require('dotenv').config();
+const { ApolloServer } = require('apollo-server');
 
-const app = express();
+
+
+const server = new ApolloServer({});
+
+server.listen().then(({ url }) => {
+  console.log(`🚀 Server ready at ${url}`);
+});
