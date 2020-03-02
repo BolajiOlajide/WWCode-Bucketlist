@@ -42,6 +42,12 @@ cd WWCode-Bucketlist
 yarn install
 ```
 
+* Prepare the database by running the migrations and seed script with the command
+
+```sh
+yarn db:prepare
+```
+
 * Start the project with the command
 
 ```sh
