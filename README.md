@@ -7,8 +7,7 @@ The focus of this workshop is introducing folks to GraphQL and building a simple
 ## Technologies Used
 
 * NodeJS
-* [ExpressJS](https://expressjs.com/)
-* [ApolloGraphQL](https://www.apollographql.com/docs/apollo-server/v1/servers/express/)
+* [ApolloGraphQL](https://github.com/apollographql/apollo-server/tree/master/packages/apollo-server)
 * [Knex](https://knexjs.org/) (Query Builder)
 * SQLite (Database)
 
