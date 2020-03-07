@@ -22,8 +22,8 @@
     "nodemon": "2.0.2"
   },
   "scripts": {
-    "dev": "nodemon src/index.js",
-    "start": "node src/index.js",
+    "dev": "nodemon src",
+    "start": "node src",
     "make:migration": "knex migrate:make $1",
     "db:migrate": "knex migrate:latest",
     "db:rollback": "knex migrate:rollback",

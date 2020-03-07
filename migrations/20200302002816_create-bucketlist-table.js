@@ -7,7 +7,7 @@ const {
 exports.up = function(knex) {
   return knex.schema
     .createTable(BUCKETLIST_TABLE_NAME, table => {
-      table.increments();
+      table.increments(); // id
       table.string('name').notNullable();
       table.integer('user_id').unsigned().references('id')
         .inTable(USER_TABLE_NAME).onDelete('CASCADE');

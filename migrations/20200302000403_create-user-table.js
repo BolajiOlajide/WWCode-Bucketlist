@@ -4,7 +4,7 @@ const { USER_TABLE_NAME } = require('../constants');
 exports.up = function(knex) {
   return knex.schema
     .createTable(USER_TABLE_NAME, table => {
-      table.increments();
+      table.increments(); // id
       table.string('username').notNullable();
       table.string('password').notNullable();
     }).catch(error => console.error(error.message));
