@@ -12,7 +12,7 @@
     "dotenv": "8.2.0",
     "graphql": "^14.6.0",
     "jsonwebtoken": "^8.5.1",
-    "knex": "^0.20.10",
+    "knex": "^2.4.0",
     "ramda": "^0.27.0",
     "sqlite3": "^4.1.1",
     "winston": "^3.2.1"
